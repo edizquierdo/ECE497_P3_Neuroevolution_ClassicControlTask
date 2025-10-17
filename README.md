@@ -5,3 +5,5 @@ P3b contains a few layers of refinement on the neural network code. We walked th
 P3c integrates the neural network code, the evolutionary algorithm, now with a slightly modified version of the Braitenberg vehicle code, and we demonstrate how to evolve a neural network to solve our first EMBODIED task. 
 
 P3d contains three classic control tasks: cart pole, inverted pendulum, and mountain cart. 
+
+The P3cx and P3dx versions of these folders contain "solved" versions of these tasks, that you can use in whichever way you would like.
